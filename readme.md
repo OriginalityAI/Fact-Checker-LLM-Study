@@ -1,6 +1,6 @@
 # Overview
 
-A dataset of 5000 claims from 5 Large Language Models was processed by Originality.ai Fact Checker.
+A dataset of 5000 claims from 5 Large Language Models was processed by [Originality.ai](https://originality.ai/) Fact Checker.
 
 ## Data
 
